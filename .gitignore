@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+aula5.py
+aula5b.py
+aula6.py
+ex00.py
+.idea/
